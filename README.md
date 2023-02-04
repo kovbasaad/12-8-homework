@@ -20,7 +20,7 @@
 ### Задание 2. PostgreSQL
 
 2.1. С помощью официальной документации приведите пример команды резервирования данных и восстановления БД (pgdump/pgrestore).
-```PostgreSQ
+```PostgreSQL
 pg_dump dbname > dumpfile
 ```
 копирование БД dbname
